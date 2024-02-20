@@ -41,7 +41,6 @@ const Room = () => {
   return (
     <div>
       <div ref={myMeeting} style={{ width: "100vw", height: "100vh" }}></div>
-      <div>{roomId} </div>
     </div>
   );
 };
