@@ -23,3 +23,10 @@ input{
   border-radius: 9px;
   color: black;
 }
+
+button{
+  padding: .6rem 2rem;
+  background: black;
+  border-radius: 9px;
+  color: white;
+}

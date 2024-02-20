@@ -16,7 +16,7 @@ const Home = () => {
         type="text"
         placeholder="Enter Room Code"
       />
-      <button onClick={handleJoinRoom}>Join Now</button>
+      <button onClick={handleJoinRoom} >Join Now</button>
     </div>
   );
 };
